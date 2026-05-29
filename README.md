@@ -1,3 +1,3 @@
 # Diablo
 MonSiteWeb
-Application web scolaire pour calculer le d'impression d'un document.
+Application web scolaire pour calculer l'impression d'un document.
